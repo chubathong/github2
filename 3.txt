@@ -1,1 +1,2 @@
 File 3.txt cua master
+ĐÂy là file 3.txt
